@@ -1,1 +1,1 @@
-# Bouc-Wen-analisis-Parametrico
+# Bouc-Wen-Parametryc-Analysis
